@@ -1,4 +1,4 @@
-# Large-Language-Model-s-using-Generative-AI-for-Dialogue-Summarizations-
+# Large-Language-Models-using-Generative-AI-for-Dialogue-Summarizations-
 Using Medical Counsel Chat Data for Dialogue Summarization Using LLM's
 
 The Dataset Used- https://huggingface.co/datasets/nbertagnolli/counsel-chat
@@ -24,7 +24,7 @@ This technique is commonly used for various purposes, including training chatbot
 
 
 # 2- Generating Dialogue Continuations using LLM's (GPT2 model)
- This invlolves a pre-trained model to generate text that continues a given dialogue prompt.
+ This involves a pre-trained model to generate text that continues a given dialogue prompt.
  It demonstrates how the model can be used to generate human-like text based on input prompts.
 
  Generating dialogue continuations involves using language models, like GPT-2, to generate text that continues a given dialogue or conversation.
